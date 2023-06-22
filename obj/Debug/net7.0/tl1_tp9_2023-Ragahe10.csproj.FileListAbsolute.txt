@@ -1,0 +1,15 @@
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\bin\Debug\net7.0\tl1_tp9_2023-Ragahe10.exe
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\bin\Debug\net7.0\tl1_tp9_2023-Ragahe10.deps.json
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\bin\Debug\net7.0\tl1_tp9_2023-Ragahe10.runtimeconfig.json
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\bin\Debug\net7.0\tl1_tp9_2023-Ragahe10.dll
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\bin\Debug\net7.0\tl1_tp9_2023-Ragahe10.pdb
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.csproj.AssemblyReference.cache
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.AssemblyInfoInputs.cache
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.AssemblyInfo.cs
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.csproj.CoreCompileInputs.cache
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.dll
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\refint\tl1_tp9_2023-Ragahe10.dll
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.pdb
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\tl1_tp9_2023-Ragahe10.genruntimeconfig.cache
+C:\Taller1-repo\tl1_tp9_2023-Ragahe10\obj\Debug\net7.0\ref\tl1_tp9_2023-Ragahe10.dll

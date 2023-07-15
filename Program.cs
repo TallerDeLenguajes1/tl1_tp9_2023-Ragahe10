@@ -30,7 +30,12 @@ static void monedas(){
                     System.Console.WriteLine(" -"+Precios.bpi.EUR.description+": "+Precios.bpi.EUR.rate_float);
                     System.Console.WriteLine(" -"+Precios.bpi.GBP.description+": "+Precios.bpi.GBP.rate_float);
                     System.Console.WriteLine(" -"+Precios.bpi.USD.description+": "+Precios.bpi.USD.rate_float);
-
+                    System.Console.WriteLine("Moneda Dolar:");
+                    System.Console.WriteLine(" -Simbolo: "+Precios.bpi.USD.symbol);
+                    System.Console.WriteLine(" -Descripcion: "+Precios.bpi.USD.description);
+                    System.Console.WriteLine(" -Rate: "+Precios.bpi.USD.rate);
+                    System.Console.WriteLine(" -Rate float: "+Precios.bpi.USD.rate_float);
+                    System.Console.WriteLine(" -Codigo: "+Precios.bpi.USD.code);
                 }
             }
         }
